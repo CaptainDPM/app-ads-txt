@@ -1,2 +1,4 @@
 google.com, pub-6584368699797595, DIRECT, f08c47fec0942fa0
 facebook.com, 1874808123048113, DIRECT, c3e20eee3f780d68
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
