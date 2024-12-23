@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0;url=https://captaindpm-github-io.vercel.app/.well-known/stripe-oauth-redirect?code=YOUR_OAUTH_CODE">
+  </head>
+  <body>
+    Redirecting...
+  </body>
+</html>
