@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0;url=shortnotice://stripe-oauth-redirect">
+    <meta http-equiv="refresh" content="0;url=shortnotice://stripe-oauth-redirect?code=YOUR_OAUTH_CODE">
   </head>
   <body>
     Redirecting...
