@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.shortnotice.short_notice",
       "sha256_cert_fingerprints": [
-        "B0:89:70:7B:7C:2D:9A:CA:18:69:BF:ED:0F:E9:4C:C4:BD:E7:36:A9:F3:44:C2:6A:59:CF:8F:8E:DB:99:C1:8D"
+        "B0:89:70:7B:7C:2D:9A:CA:18:69:BF:ED:0F:E9:4C:C4:BD:E7:36:A9:F3:44:C2:6A:59:CF:8F:8E:DB:99:C1:8D",
+        "39:33:53:77:84:65:B1:27:AF:D5:FA:48:8D:3F:45:8F:C2:53:24:24:0F:AB:62:4F:1F:3A:41:18:BE:A2:E9:27"
       ]
     }
   }
