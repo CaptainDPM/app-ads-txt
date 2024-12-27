@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "P99H6S3Y7T.com.shortnotice.short-notice",
-        "paths": ["/stripe-oauth-redirect*", "/*"]
+        "paths": ["/.well-known/stripe-oauth-redirect*", "/*"]
       }
     ]
   }
