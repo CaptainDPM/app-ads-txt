@@ -8,6 +8,8 @@
           "value": "application/json"
         }
       ]
+    },
+    {
       "source": "/.well-known/stripe-oauth-redirect",
       "headers": [
         {
