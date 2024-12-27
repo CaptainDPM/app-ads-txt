@@ -1,0 +1,17 @@
+{
+  "headers": [
+    {
+      "source": "/.well-known/stripe-oauth-redirect",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/html"
+        },
+        {
+          "key": "Content-Disposition",
+          "value": "inline"
+        }
+      ]
+    }
+  ]
+}
