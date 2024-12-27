@@ -2,15 +2,16 @@
 <html>
   <head>
     <script>
-      // JavaScript to extract the code parameter from the URL and redirect with it
       const urlParams = new URLSearchParams(window.location.search);
       const oauthCode = urlParams.get('code');
-      if (oauthCode) {
-        // Redirect to the backend with the OAuth code
+      const currentUrl = window.location.href;
+
+      // Check if there's a code in the URL and if it's already been processed
+      if (oauthCode && !currentUrl.includes('code=' + oauthCode)) {
         window.location.href = 'https://captaindpm-github-io.vercel.app/.well-known/stripe-oauth-redirect?code=' + oauthCode;
       } else {
-        // Handle the error case where no code is present
-        alert('OAuth code not found.');
+        // If there's no code or it's the same, prevent refresh
+        alert('OAuth code received, now processing...');
       }
     </script>
   </head>
